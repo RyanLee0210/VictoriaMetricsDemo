@@ -1,0 +1,7 @@
+users:
+- username: "dalong-select-account-1"
+  password: "dalong"
+  url_prefix: "http://vmselect:8481/select/1/prometheus"
+- username: "dalong-insert-account-1"
+  password: "dalong"
+  url_prefix: "http://vminsert:8480/insert/1/prometheus"
